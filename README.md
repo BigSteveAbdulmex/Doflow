@@ -53,9 +53,9 @@ Doflow is a task management and collaboration app designed to streamline workflo
 ## Collaborators
 The following individuals are actively contributing to Doflow:
 
-- **BigSteveAbdulmex** - [GitHub Profile](https://github.com/BigSteveAbdulmex)
-- **Collaborator 1** - [GitHub Profile](https://github.com/techusman-codes)
-- **Collaborator 2** - [GitHub Profile](https://github.com/fave16)
+- **BigSteveAbdulmex** - [BigSteveAbdulmex](https://github.com/BigSteveAbdulmex)
+- **Collaborator 1** - [Fave](https://github.com/techusman-codes)
+- **Collaborator 2** - [Umar](https://github.com/fave16)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
